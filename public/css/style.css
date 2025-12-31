@@ -1,0 +1,26 @@
+body { font-family: sans-serif; line-height: 1.6; padding: 20px; }
+header nav a { color: #333; text-decoration: none; margin-right: 15px; }
+header nav a:hover { color: #007acc; }
+h1 { color: #ff0000; }
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.gallery a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.gallery img.thumb {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+}
+
+.gallery p {
+  text-align: center;
+  margin: 5px 0 0;
+}
