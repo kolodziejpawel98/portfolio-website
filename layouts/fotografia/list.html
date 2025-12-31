@@ -3,7 +3,7 @@
 <p>{{ .Content }}</p>
 <div class="gallery">
   {{ range .Pages }}
-    <a href="{{ .RelPermalink }}">
+    <a href="{{ .File.BaseFileName }}.html">
       <img src="/images/fotografia/{{ .File.BaseFileName }}.jpg" alt="{{ .Title }}" class="thumb">
       <p>{{ .Title }}</p>
     </a>
