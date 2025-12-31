@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Portfolio</title>
-    <link>http://localhost/categories/</link>
+    <link>http://localhost/categories/index.html</link>
     <description>Recent content in Categories on Portfolio</description>
     <generator>Hugo</generator>
     <language>pl</language>
