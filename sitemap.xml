@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/categories/index.html</loc>
+    <loc>http://localhost:1313/categories/index.html</loc>
   </url><url>
-    <loc>http://localhost/fotografia.html</loc>
+    <loc>http://localhost:1313/fotografia/index.html</loc>
   </url><url>
-    <loc>http://localhost/grafika.html</loc>
+    <loc>http://localhost:1313/grafika.html</loc>
   </url><url>
-    <loc>http://localhost/kontakt.html</loc>
+    <loc>http://localhost:1313/kontakt.html</loc>
   </url><url>
-    <loc>http://localhost/o-mnie.html</loc>
+    <loc>http://localhost:1313/o-mnie.html</loc>
   </url><url>
-    <loc>http://localhost/index.html</loc>
+    <loc>http://localhost:1313/index.html</loc>
   </url><url>
-    <loc>http://localhost/tags/index.html</loc>
+    <loc>http://localhost:1313/tags/index.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/fotografia/zdjecie1.html</loc>
+  </url><url>
+    <loc>http://localhost:1313/fotografia/zdjecie2.html</loc>
   </url>
 </urlset>
