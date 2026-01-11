@@ -1,7 +1,11 @@
 body { font-family: sans-serif; line-height: 1.6; padding: 20px; }
+
 header nav a { color: #333; text-decoration: none; margin-right: 15px; }
+
 header nav a:hover { color: #007acc; }
-h1 { color: #ff0000; }
+h1 {
+  color: #ff00bf;
+}
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -13,7 +17,7 @@ h1 { color: #ff0000; }
   color: inherit;
 }
 
-.gallery img.thumb {
+.gallery img {
   width: 200px;
   height: 150px;
   object-fit: cover;
