@@ -5,3 +5,8 @@ uglyURLs = true
 baseURL = "https://kolodziejpawel98.github.io/portfolio-website/"
 relativeURLs = true
 canonifyURLs = true
+
+
+# README
+# run server with:
+#hugo server --disableFastRender --baseURL=http://localhost:1313/

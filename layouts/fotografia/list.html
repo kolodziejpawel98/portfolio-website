@@ -4,10 +4,10 @@
 
 <div class="gallery">
   {{ range .RegularPages }}
-  <a href="{{ .RelPermalink }}">
-    <img src="/images/{{ .File.BaseFileName }}.jpg" alt="{{ .Title }}">
-    <p>{{ .Title }}</p>
-  </a>
+<a href="{{ .RelPermalink }}" class="thumb-wrapper">
+  <img src='{{ "images/" | relURL }}{{ .File.BaseFileName }}.jpg' alt='{{ .Title }}'>
+  <span class="thumb-text">{{ .Title }}</span>
+</a>
   {{ end }}
 </div>
 {{ end }}
