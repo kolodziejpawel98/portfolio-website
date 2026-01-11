@@ -1,5 +1,7 @@
-baseURL = "http://localhost/"
 languageCode = "pl"
 title = "Portfolio"
 theme = "minimal"
 uglyURLs = true
+baseURL = "https://kolodziejpawel98.github.io/portfolio-website/"
+relativeURLs = true
+canonifyURLs = true
