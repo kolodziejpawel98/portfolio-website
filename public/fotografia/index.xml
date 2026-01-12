@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fotografia on Portfolio</title>
-    <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/index.html</link>
+    <link>http://localhost:1313/fotografia/index.html</link>
     <description>Recent content in Fotografia on Portfolio</description>
     <generator>Hugo</generator>
     <language>pl</language>
-    <atom:link href="https://kolodziejpawel98.github.io/portfolio-website/fotografia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fotografia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zdjęcie 1</title>
-      <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie1.html</link>
+      <link>http://localhost:1313/fotografia/zdjecie1.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie1.html</guid>
+      <guid>http://localhost:1313/fotografia/zdjecie1.html</guid>
       <description>&lt;p&gt;Opis zdjęcia 1. Możesz tu napisać dowolny tekst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zdjęcie 2</title>
-      <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie2.html</link>
+      <link>http://localhost:1313/fotografia/zdjecie2.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie2.html</guid>
+      <guid>http://localhost:1313/fotografia/zdjecie2.html</guid>
       <description>&lt;p&gt;Opis zdjęcia 2. Możesz tu napisać dowolny tekst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zdjęcie 3</title>
-      <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie3.html</link>
+      <link>http://localhost:1313/fotografia/zdjecie3.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie3.html</guid>
+      <guid>http://localhost:1313/fotografia/zdjecie3.html</guid>
       <description>&lt;p&gt;Opis zdjęcia 3. Możesz tu napisać dowolny tekst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zdjęcie 4</title>
-      <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie4.html</link>
+      <link>http://localhost:1313/fotografia/zdjecie4.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie4.html</guid>
+      <guid>http://localhost:1313/fotografia/zdjecie4.html</guid>
       <description>&lt;p&gt;Opis zdjęcia 4. Możesz tu napisać dowolny tekst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zdjęcie 4</title>
-      <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie5.html</link>
+      <link>http://localhost:1313/fotografia/zdjecie5.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie5.html</guid>
+      <guid>http://localhost:1313/fotografia/zdjecie5.html</guid>
       <description>&lt;p&gt;Opis zdjęcia 4. Możesz tu napisać dowolny tekst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zdjęcie 4</title>
-      <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie6.html</link>
+      <link>http://localhost:1313/fotografia/zdjecie6.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie6.html</guid>
+      <guid>http://localhost:1313/fotografia/zdjecie6.html</guid>
       <description>&lt;p&gt;Opis zdjęcia 4. Możesz tu napisać dowolny tekst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zdjęcie 4</title>
-      <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie7.html</link>
+      <link>http://localhost:1313/fotografia/zdjecie7.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie7.html</guid>
+      <guid>http://localhost:1313/fotografia/zdjecie7.html</guid>
       <description>&lt;p&gt;Opis zdjęcia 4. Możesz tu napisać dowolny tekst.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Zdjęcie 4</title>
-      <link>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie8.html</link>
+      <link>http://localhost:1313/fotografia/zdjecie8.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kolodziejpawel98.github.io/portfolio-website/fotografia/zdjecie8.html</guid>
+      <guid>http://localhost:1313/fotografia/zdjecie8.html</guid>
       <description>&lt;p&gt;Opis zdjęcia 4. Możesz tu napisać dowolny tekst.&lt;/p&gt;</description>
     </item>
   </channel>
