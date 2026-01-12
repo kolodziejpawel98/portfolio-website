@@ -1,5 +1,0 @@
----
-title: "Grafika"
----
-
-Grafika
