@@ -248,6 +248,52 @@ p {
     color: var(--muted)
   }
   
+  /* Responsive design */
+  @media (max-width: 1024px) {
+    .sidebar {
+      position: static;
+      width: 100%;
+      flex-direction: row;
+      justify-content: center;
+      padding: 18px 12px;
+      border-right: none;
+      border-bottom: 1px solid #eee;
+    }
+    
+    .sidebar .logo {
+      margin-right: 20px;
+    }
+    
+    .sidebar nav {
+      flex-direction: row;
+      gap: 18px;
+    }
+    
+    .content {
+      margin-left: 0;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .content {
+      padding: 12px 10px;
+    }
+    
+    .sidebar {
+      padding: 12px;
+    }
+    
+    .sidebar .logo img {
+      width: 60px;
+      height: 60px;
+    }
+    
+    .sidebar nav a {
+      font-size: 14px;
+      padding: 6px 10px;
+    }
+  }
+  
   @media (max-width:1000px) {
     .gallery {
       column-count: 2
